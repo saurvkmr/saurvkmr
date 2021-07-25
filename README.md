@@ -4,6 +4,14 @@
 <!--- - 💞️ I’m looking to collaborate on open sourc --->
 - 📫 How to reach me over email
 
+<table width="100%">
+  <tr>
+    <td>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=saurvkmr&show_icons=true&hide_border=true" /> </td>
+ <td> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurvkmr&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> </td>
+  </tr>
+ <table>
+
 ![Saurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=saurvkmr&show_icons=true)
 
 <!---

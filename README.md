@@ -5,6 +5,13 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sauravkumar08/)
 [![Mail](https://img.shields.io/badge/-Mail-blue?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:sourav.available@gmail.com)
 
+**Language and Tools:** 
+
+<code><img height="50" src="https://github.com/konpa/devicon/blob/master/icons/python/python-original.svg"></code>
+<code><img height="50" src="https://github.com/konpa/devicon/blob/master/icons/java/java-original.svg"></code>
+<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg"></code>
+<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg"></code>
+
 <table width="100%">
   <tr>
     <td>

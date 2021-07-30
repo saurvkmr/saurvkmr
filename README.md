@@ -8,8 +8,8 @@
 <table width="100%">
   <tr>
     <td>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=saurvkmr&show_icons=true&hide_border=true" /> </td>
- <td> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurvkmr&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> </td>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=saurvkmr&show_icons=true&hide_border=true&theme=tokyonight" /> </td>
+ <td> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurvkmr&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/> </td>
   </tr>
  <table>
 

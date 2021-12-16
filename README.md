@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saurvkmr
 - 👀 I’m interested in developing efficient code and photography 
-- 🌱 I’m currently learning Kotlin and Go
+- 🌱 I’m currently learning Haskell and Go
 <!--- - 💞️ I’m looking to collaborate on open sourc --->
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sauravkumar08/)
 [![Mail](https://img.shields.io/badge/-Mail-blue?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:sourav.available@gmail.com)
